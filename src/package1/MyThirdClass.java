@@ -1,3 +1,5 @@
+package package1;
+
 public class MyThirdClass {
     public static void main(String[] args) {
         int x = 5;
