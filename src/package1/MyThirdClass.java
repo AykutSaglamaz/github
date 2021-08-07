@@ -7,7 +7,12 @@ public class MyThirdClass {
         System.out.println(sum);
         
          int y =0;
+
          String str = "Java";
+
+
+        int z =10;
+        
 
       System.out.println("This is remove REPO CODE");
 
