@@ -7,6 +7,8 @@ public class MyThirdClass {
         System.out.println(sum);
         
          int y =0;
+         String str = "Java";
+
       System.out.println("This is remove REPO CODE");
 
 //        --GIT PULL--
